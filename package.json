@@ -1,0 +1,25 @@
+{
+    "name": "com.Bica.TweenSystem",
+    "version": "1.0.1",
+    "displayName": "Tween System",
+    "description": "Unity C# class to interpolate values.",
+    "unity": "2019.3",
+    "hideInEditor": false,
+    "license": "See LICENSE.md file",
+    "changelogUrl": "https://github.com/LucasBica/TweenSystem/blob/main/CHANGELOG.md",
+    "documentationUrl": "https://github.com/LucasBica/TweenSystem/blob/main/Documentation%7E/Documentation.md",
+    "licensesUrl": "https://github.com/LucasBica/TweenSystem/blob/main/LICENSE.md",
+    "keywords": [
+        "TweenSystem",
+        "Tween",
+        "System",
+        "Tweening",
+        "Interpolation",
+        "Value"
+    ],
+    "author": {
+        "name": "Bica",
+        "email": "lucasgabrielbica@gmail.com",
+        "url": "https://www.linkedin.com/in/lucasbica"
+    }
+}
