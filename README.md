@@ -1,6 +1,6 @@
 # Tween System
 
-## How Intall
+## How Install
 
 Check out the [Install a package from a Git URL](https://docs.unity3d.com/Manual/upm-ui-giturl.html) for more info.
 
