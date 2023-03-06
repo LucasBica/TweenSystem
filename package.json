@@ -1,6 +1,6 @@
 {
-    "name": "com.Bica.TweenSystem",
-    "version": "1.0.2",
+    "name": "com.bica.tweensystem",
+    "version": "1.0.3",
     "displayName": "Tween System",
     "description": "Unity C# class to interpolate values.",
     "unity": "2019.3",
